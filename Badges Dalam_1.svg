@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 78.96 15.63">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: url(#linear-gradient);
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .36px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0" y1="7.82" x2="78.96" y2="7.82" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#787878"/>
+      <stop offset=".08" stop-color="#8f8f8f"/>
+      <stop offset=".23" stop-color="#cbcbcb"/>
+      <stop offset=".27" stop-color="#d9d9d9"/>
+      <stop offset=".33" stop-color="#c1c1c1"/>
+      <stop offset=".46" stop-color="#858585"/>
+      <stop offset=".48" stop-color="#787878"/>
+      <stop offset=".55" stop-color="#8f8f8f"/>
+      <stop offset=".68" stop-color="#cbcbcb"/>
+      <stop offset=".71" stop-color="#d9d9d9"/>
+      <stop offset=".79" stop-color="#c1c1c1"/>
+      <stop offset=".96" stop-color="#858585"/>
+      <stop offset=".99" stop-color="#787878"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <path class="cls-1" d="M78.78,2.75v10.21c-1.38,0-2.5,1.12-2.5,2.5H2.74c0-1.38-1.12-2.5-2.5-2.5h-.06V2.75h.06C1.62,2.75,2.74,1.63,2.74.25v-.07h73.55v.07c0,1.38,1.12,2.5,2.5,2.5Z"/>
+  </g>
+</svg>
